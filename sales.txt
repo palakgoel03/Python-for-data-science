@@ -1,0 +1,8 @@
+Palak,5500299288,palak@gmail.com,2,Bar One
+1003,2222,2222,48,Milk
+Palak,84848484848,palak,4,Bar OneSat Jul  8 16:15:00 2023
+Palak,222,2222,5,Cake,Mon Jul 10 15:26:54 2023
+palak,aaaa,aaaa,500,Bar One,Mon Jul 10 15:27:27 2023
+1002,500,ssss,500,Bar One,Mon Jul 10 15:29:05 2023
+pala,aaa,sdd,50,Bar One,Mon Jul 10 15:30:04 2023
+Palak,222,222,1,5 Star,Mon Jul 10 15:30:51 2023
